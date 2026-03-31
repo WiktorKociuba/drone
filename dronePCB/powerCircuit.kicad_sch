@@ -4,6 +4,12 @@
 	(generator_version "9.0")
 	(uuid "12b81d80-cfda-40f4-a9db-1672fc7d886c")
 	(paper "A4")
+	(title_block
+		(title "Power Circuit")
+		(date "2026-03-31")
+		(rev "v1.0.0")
+		(company "Author: Mejpek")
+	)
 	(lib_symbols
 		(symbol "BQ25792RQMR:BQ25792RQMR"
 			(pin_names
@@ -11315,7 +11321,7 @@
 			(uuid "690d88b2-4d08-4e2c-a8a5-61e4d0158eff")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR027")
 					(unit 1)
@@ -11394,7 +11400,7 @@
 			(uuid "da511ff6-4de9-45a0-880a-91ed3a3e2963")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "J5")
 					(unit 1)
@@ -11598,7 +11604,7 @@
 			(uuid "f9195b8a-802d-4247-bbaa-4a13fcb6b134")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR041")
 					(unit 1)
@@ -11665,7 +11671,7 @@
 			(uuid "371a7f32-763c-4e88-9266-d0e0edbf2446")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "R26")
 					(unit 1)
@@ -11868,7 +11874,7 @@
 			(uuid "67bfb49a-8fc1-47e7-bb4f-4de02ecc3d4c")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR042")
 					(unit 1)
@@ -11934,7 +11940,7 @@
 			(uuid "dea38c6f-bda5-439e-8aeb-85d73c3364f8")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR052")
 					(unit 1)
@@ -12068,7 +12074,7 @@
 			(uuid "9e575404-9de0-4780-8ee8-a2cbb29fe14f")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR059")
 					(unit 1)
@@ -12335,7 +12341,7 @@
 			(uuid "21cd648c-671a-435f-919d-87f3bfd5ab0b")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR054")
 					(unit 1)
@@ -12605,7 +12611,7 @@
 			(uuid "a29d21c3-3371-494d-af05-540424d33f96")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "J3")
 					(unit 1)
@@ -13144,7 +13150,7 @@
 			(uuid "57319415-682a-4030-a0fc-6aec4bcd9d6c")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR056")
 					(unit 1)
@@ -13211,7 +13217,7 @@
 			(uuid "d8af0f16-a4cf-4a3c-8847-e76838b49b92")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#FLG02")
 					(unit 1)
@@ -13280,7 +13286,7 @@
 			(uuid "02764196-58da-421d-96fa-700ab2617f27")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "C25")
 					(unit 1)
@@ -13346,7 +13352,7 @@
 			(uuid "d1b2e76c-9465-4df0-a18f-f4ae77abaafb")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR033")
 					(unit 1)
@@ -13479,7 +13485,7 @@
 			(uuid "66a81985-9d70-4886-8bde-36fc1b17594a")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR026")
 					(unit 1)
@@ -13544,7 +13550,7 @@
 			(uuid "639da40d-a4f0-4fc4-826d-c361037fe704")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR031")
 					(unit 1)
@@ -13610,7 +13616,7 @@
 			(uuid "7d368594-dfec-42f5-ab97-56cbed1e8d6f")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR029")
 					(unit 1)
@@ -13815,7 +13821,7 @@
 			(uuid "6b63d783-eee3-4610-b5f4-3c243b42fcf0")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "U5")
 					(unit 1)
@@ -13882,7 +13888,7 @@
 			(uuid "c91ff5b0-97d8-4272-99ad-069616462e53")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "R23")
 					(unit 1)
@@ -14081,7 +14087,7 @@
 			(uuid "2155400f-3fb2-4d1d-b3b4-f3ba3ec62d90")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR051")
 					(unit 1)
@@ -14217,7 +14223,7 @@
 			(uuid "7a3fa730-deea-499b-921d-17b47b6a093e")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "SW3")
 					(unit 1)
@@ -14417,7 +14423,7 @@
 			(uuid "bcb61b77-eb59-4f4b-867b-5808fbe07532")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR037")
 					(unit 1)
@@ -14619,7 +14625,7 @@
 			(uuid "1a7d2784-debb-4456-904b-e9daae96764a")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR047")
 					(unit 1)
@@ -14753,7 +14759,7 @@
 			(uuid "d0794f18-4e62-46f1-a010-d7ceaba8e2f6")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "R13")
 					(unit 1)
@@ -15009,7 +15015,7 @@
 			(uuid "166e88e9-90fa-4e22-b588-d22ec79a2c93")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "IC1")
 					(unit 1)
@@ -15075,7 +15081,7 @@
 			(uuid "68062d14-de06-4718-8b4d-5f636ef16d3d")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR035")
 					(unit 1)
@@ -15278,7 +15284,7 @@
 			(uuid "3c6f04bc-6a4a-4cc0-ac80-4b31daede094")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "IC2")
 					(unit 1)
@@ -15348,7 +15354,7 @@
 			(uuid "1dcbce7f-15e8-42d5-afce-e6d939417f2d")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "C65")
 					(unit 1)
@@ -15415,7 +15421,7 @@
 			(uuid "d5e5d710-9516-4552-8b40-17584b292272")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "R40")
 					(unit 1)
@@ -15481,7 +15487,7 @@
 			(uuid "fe60e15c-091f-4b8d-bb3c-8f681f421908")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR060")
 					(unit 1)
@@ -15547,7 +15553,7 @@
 			(uuid "b1ac03ef-500a-4a36-96bf-a5abf88e8305")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR043")
 					(unit 1)
@@ -15682,7 +15688,7 @@
 			(uuid "c36a6a8c-8e6f-4325-934b-2d804f219d5c")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR034")
 					(unit 1)
@@ -15951,7 +15957,7 @@
 			(uuid "106bf59b-7073-4c3c-9014-41afda161d05")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR038")
 					(unit 1)
@@ -16156,7 +16162,7 @@
 			(uuid "64f7d189-1dad-4b73-80f0-303d7ac74029")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "C61")
 					(unit 1)
@@ -16359,7 +16365,7 @@
 			(uuid "59a7e6b1-4858-40a4-b714-40846c803df7")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "R37")
 					(unit 1)
@@ -16425,7 +16431,7 @@
 			(uuid "fcedda57-f08f-4534-a1d6-354ccc7e3879")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#FLG01")
 					(unit 1)
@@ -16555,7 +16561,7 @@
 			(uuid "5bf22ca4-d526-469a-8a9c-06aecd44c555")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR032")
 					(unit 1)
@@ -16688,7 +16694,7 @@
 			(uuid "e5c3f484-c9d5-4e8b-894e-480f29fbdb9a")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR044")
 					(unit 1)
@@ -16757,7 +16763,7 @@
 			(uuid "e78b3ed3-43eb-4dc0-94e7-2d51f57e17c3")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "C45")
 					(unit 1)
@@ -16823,7 +16829,7 @@
 			(uuid "4bcc059b-76f6-48a4-b765-66e201dcd2f8")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR057")
 					(unit 1)
@@ -16892,7 +16898,7 @@
 			(uuid "e987be42-43f1-448c-9166-193bed075643")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "C44")
 					(unit 1)
@@ -17094,7 +17100,7 @@
 			(uuid "5b9d1069-69c5-42ae-b64c-c55ebde50cbc")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "J4")
 					(unit 1)
@@ -17161,7 +17167,7 @@
 			(uuid "48a0bde7-38ee-4abd-a38a-ebb62f2e4772")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "C46")
 					(unit 1)
@@ -17432,7 +17438,7 @@
 			(uuid "d3743a95-1d72-4681-92a6-ab6e9716732a")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR040")
 					(unit 1)
@@ -17497,7 +17503,7 @@
 			(uuid "a3275343-220b-4194-9223-e7a09130da34")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR036")
 					(unit 1)
@@ -17564,7 +17570,7 @@
 			(uuid "70d74d9d-8081-4cf8-aeed-8f1e24bdfefe")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "R41")
 					(unit 1)
@@ -17767,7 +17773,7 @@
 			(uuid "156fde51-afda-4585-b3a0-f854391e747e")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "R18")
 					(unit 1)
@@ -17899,7 +17905,7 @@
 			(uuid "a89c0823-7f5c-490b-ac51-f87f9143f61f")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR039")
 					(unit 1)
@@ -17966,7 +17972,7 @@
 			(uuid "29ff9e74-7fc5-4f11-bd51-c526a273eb91")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "R17")
 					(unit 1)
@@ -18036,7 +18042,7 @@
 			(uuid "44618a7b-1a9e-4b4e-b5c8-7f74413ca068")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "L2")
 					(unit 1)
@@ -18102,7 +18108,7 @@
 			(uuid "376d1816-7f6c-486a-85ce-655c33dc0796")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR045")
 					(unit 1)
@@ -18441,7 +18447,7 @@
 			(uuid "5bf33022-73da-41b0-9631-182ecee7132d")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "U4")
 					(unit 1)
@@ -18576,7 +18582,7 @@
 			(uuid "3ac2eda1-1c51-4775-aa24-74476ba6bb5f")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR055")
 					(unit 1)
@@ -19051,7 +19057,7 @@
 			(uuid "5c977217-fd3b-429f-8863-4d3233b183dc")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR061")
 					(unit 1)
@@ -19116,7 +19122,7 @@
 			(uuid "d2f9d663-75b3-406f-a92f-31fc88705144")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR030")
 					(unit 1)
@@ -19186,7 +19192,7 @@
 			(uuid "f9ef89f9-dbba-4669-84ec-af58c8616db9")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "R24")
 					(unit 1)
@@ -19321,7 +19327,7 @@
 			(uuid "f905cf62-fcb0-43f5-8f53-f0b4c5d8d762")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR053")
 					(unit 1)
@@ -19390,7 +19396,7 @@
 			(uuid "c54d0290-1de7-4172-85cc-802c5822489b")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "C54")
 					(unit 1)
@@ -19662,7 +19668,7 @@
 			(uuid "1ac7a01a-50b1-4e96-bd0f-92a537c1a911")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "C22")
 					(unit 1)
@@ -19728,7 +19734,7 @@
 			(uuid "958f993b-eca6-40e6-921a-7d56893c75c7")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "#PWR050")
 					(unit 1)
@@ -19852,7 +19858,7 @@
 			(uuid "8cf1a332-cf2a-4a51-a645-6dbfb3080cb6")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "U6")
 					(unit 1)
@@ -19919,7 +19925,7 @@
 			(uuid "1b75b019-4973-45a4-b328-1f05cbdfa391")
 		)
 		(instances
-			(project ""
+			(project "dronePCB"
 				(path "/e43e0c6a-7625-4d75-a562-2d8b1d42aebe/28439b32-e415-4db7-b438-aff0643217d5/de58133c-d7d7-4e47-a421-3fde5cbf4e18"
 					(reference "C28")
 					(unit 1)
