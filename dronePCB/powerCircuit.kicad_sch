@@ -11495,7 +11495,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 48.514 175.514 0)
 			(effects
 				(font
@@ -12166,8 +12166,8 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 201.422 59.944 0)
+		(property "Value" "100n"
+			(at 202.184 60.198 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12637,7 +12637,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 248.666 34.29 90)
 			(effects
 				(font
@@ -12906,7 +12906,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 177.038 22.606 0)
 			(effects
 				(font
@@ -14113,8 +14113,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 236.474 34.29 90)
+		(property "Value" "100n"
+			(at 236.982 34.29 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14315,8 +14315,8 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 215.392 78.994 0)
+		(property "Value" "100n"
+			(at 216.154 78.994 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17125,8 +17125,8 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 92.71 171.45 90)
+		(property "Value" "100n"
+			(at 92.456 171.45 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18742,7 +18742,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 260.096 34.29 90)
 			(effects
 				(font

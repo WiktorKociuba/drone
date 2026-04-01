@@ -11450,15 +11450,15 @@
 		(dnp no)
 		(uuid "1774e14f-5153-468e-88ab-f7931cd5cb65")
 		(property "Reference" "J17"
-			(at 114.3 180.086 0)
+			(at 113.792 180.086 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "ToF5"
-			(at 114.554 182.88 0)
+		(property "Value" "ToF400C"
+			(at 113.538 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11804,15 +11804,15 @@
 		(dnp no)
 		(uuid "1dac7885-5630-457c-b8b9-f96d745bb48f")
 		(property "Reference" "J13"
-			(at 106.68 63.246 0)
+			(at 106.172 63.246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "ToF1"
-			(at 106.934 66.04 0)
+		(property "Value" "ToF400C"
+			(at 106.172 66.294 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12488,7 +12488,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 274.574 78.232 0)
 			(effects
 				(font
@@ -12557,7 +12557,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 78.994 56.896 0)
 			(effects
 				(font
@@ -12685,15 +12685,15 @@
 		(dnp no)
 		(uuid "3f04cecb-7e21-4cd3-945c-08d118db99f2")
 		(property "Reference" "J15"
-			(at 114.3 117.856 0)
+			(at 113.792 117.856 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "ToF3"
-			(at 114.554 120.65 0)
+		(property "Value" "ToF400C"
+			(at 113.538 120.904 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15025,8 +15025,8 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 224.028 134.874 90)
+		(property "Value" "100n"
+			(at 224.79 134.62 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15501,8 +15501,8 @@
 				)
 			)
 		)
-		(property "Value" "0.1u"
-			(at 227.838 103.124 90)
+		(property "Value" "100n"
+			(at 228.346 103.124 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17763,15 +17763,15 @@
 		(dnp no)
 		(uuid "dfb8eaa6-b1ce-4e3d-803e-494c13b5f078")
 		(property "Reference" "J14"
-			(at 106.68 89.916 0)
+			(at 105.664 89.662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "ToF2"
-			(at 106.934 92.71 0)
+		(property "Value" "ToF400C"
+			(at 105.664 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18740,7 +18740,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 279.654 78.232 0)
 			(effects
 				(font
@@ -18867,15 +18867,15 @@
 		(dnp no)
 		(uuid "f3821cfe-6b77-472a-bfda-2887e641d466")
 		(property "Reference" "J16"
-			(at 114.3 148.336 0)
+			(at 113.792 148.336 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "ToF4"
-			(at 114.554 151.13 0)
+		(property "Value" "ToF400C"
+			(at 113.792 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19102,7 +19102,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0.1u"
+		(property "Value" "100n"
 			(at 207.772 65.786 0)
 			(effects
 				(font
