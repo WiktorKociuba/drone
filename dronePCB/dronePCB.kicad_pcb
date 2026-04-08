@@ -11322,7 +11322,7 @@
 			(uuid "3ae8d8d7-c628-48c1-90dd-262d3696e225")
 		)
 		(embedded_fonts no)
-		(model "MP2338GTL-Z.stp"
+		(model "/home/mejpek/Downloads/LIB_MP2338GTL-Z/MP2338GTL-Z/3D/MP2338GTL-Z.stp"
 			(offset
 				(xyz 0 0 0)
 			)
