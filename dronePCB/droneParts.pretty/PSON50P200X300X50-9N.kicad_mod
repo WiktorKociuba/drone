@@ -157,7 +157,7 @@
 		(size 0.52 0.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.07)
-		(solder_mask_margin 0.102)
+		(solder_mask_margin 0.05)
 		(uuid "4a898276-3985-4918-ba8b-31813b4ce8d2")
 	)
 	(pad "2" smd roundrect
@@ -165,7 +165,7 @@
 		(size 0.52 0.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.07)
-		(solder_mask_margin 0.102)
+		(solder_mask_margin 0.05)
 		(uuid "a87e0fab-4d70-4d3d-ad13-bd1604d4c261")
 	)
 	(pad "3" smd roundrect
@@ -173,7 +173,7 @@
 		(size 0.52 0.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.07)
-		(solder_mask_margin 0.102)
+		(solder_mask_margin 0.05)
 		(uuid "b6eafd17-5c7d-4128-9d86-502f96b132af")
 	)
 	(pad "4" smd roundrect
@@ -181,7 +181,7 @@
 		(size 0.52 0.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.07)
-		(solder_mask_margin 0.102)
+		(solder_mask_margin 0.05)
 		(uuid "b96de8b8-c587-4084-9b74-393f6f324b0e")
 	)
 	(pad "5" smd roundrect
@@ -189,7 +189,7 @@
 		(size 0.52 0.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.07)
-		(solder_mask_margin 0.102)
+		(solder_mask_margin 0.05)
 		(uuid "5e778baa-b5f3-4215-a94d-b103b3b8ac2a")
 	)
 	(pad "6" smd roundrect
@@ -197,7 +197,7 @@
 		(size 0.52 0.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.07)
-		(solder_mask_margin 0.102)
+		(solder_mask_margin 0.05)
 		(uuid "1b92a439-fbfc-4502-80c4-57561c8c69bf")
 	)
 	(pad "7" smd roundrect
@@ -205,7 +205,7 @@
 		(size 0.52 0.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.07)
-		(solder_mask_margin 0.102)
+		(solder_mask_margin 0.05)
 		(uuid "6386fd51-636b-4af1-b451-4d4dd83ae5fd")
 	)
 	(pad "8" smd roundrect
@@ -213,7 +213,7 @@
 		(size 0.52 0.35)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.07)
-		(solder_mask_margin 0.102)
+		(solder_mask_margin 0.05)
 		(uuid "2fed3870-74fe-4838-b20b-3400ecb48a87")
 	)
 	(pad "9" smd roundrect
@@ -221,7 +221,7 @@
 		(size 0.2 1.6)
 		(layers "F.Cu" "F.Mask" "F.Paste")
 		(roundrect_rratio 0.125)
-		(solder_mask_margin 0.102)
+		(solder_mask_margin 0.05)
 		(uuid "46eef06a-edf0-4cd1-b992-6bf036cc3740")
 	)
 	(embedded_fonts no)

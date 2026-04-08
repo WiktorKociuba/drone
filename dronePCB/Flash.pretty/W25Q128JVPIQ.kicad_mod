@@ -50,6 +50,7 @@
 			)
 		)
 	)
+	(clearance 0.2)
 	(attr smd)
 	(fp_line
 		(start -3.05 -2.55)
@@ -121,6 +122,17 @@
 		(fill yes)
 		(layer "F.SilkS")
 		(uuid "9fac7da9-1ac0-4cd3-8673-19f9e99be8f5")
+	)
+	(fp_rect
+		(start -3.5 -3)
+		(end 3.5 3)
+		(stroke
+			(width 0.05)
+			(type default)
+		)
+		(fill no)
+		(layer "F.CrtYd")
+		(uuid "46bfb8dd-14c7-4234-9a4d-5c12b39993c6")
 	)
 	(fp_line
 		(start -3.05 -2.55)
