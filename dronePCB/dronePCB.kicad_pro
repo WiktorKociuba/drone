@@ -790,7 +790,7 @@
         "uuid": "e43e0c6a-7625-4d75-a562-2d8b1d42aebe"
       }
     ],
-    "used_designators": "",
+    "used_designators": "C68-69,#PWR63,#PWR133-138,IC3,U11",
     "variants": []
   },
   "sheets": [
