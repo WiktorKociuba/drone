@@ -1,0 +1,1352 @@
+04-25 15:20:27 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 238:Plugin executed on: 'linux'
+04-25 15:20:27 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 239:Plugin executed with python version: '3.13.7 (main, Mar  3 2026, 12:19:54) [GCC 15.2.0]'
+04-25 15:20:27 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 240:KiCad build version: 10.0.1-10.0.1~ubuntu25.10.1
+04-25 15:20:27 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 241:Plugin version: 1.0.15
+04-25 15:20:27 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 246:Screen sizes: [wx.Size(1920, 1080)]
+04-25 15:20:27 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 253:Dialog size: wx.Size(213, 81)
+04-25 15:20:27 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 255:Char size: 19
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 30:Starting to archive 3D models
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C47
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C35
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C40
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C67
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C59
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C1
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R50
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R13
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R52
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R54
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R24
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C46
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C48
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R45
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R3
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: H4
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J7
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://SMA_Amphenol_132134-11_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://SMA_Amphenol_132134-11_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://SMA_Amphenol_132134-11_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://SMA_Amphenol_132134-11_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://SMA_Amphenol_132134-11_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J1
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R32
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C58
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R2
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: H1
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U7
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://COMM-SMD_E28-2G4M12SX.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://COMM-SMD_E28-2G4M12SX.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://COMM-SMD_E28-2G4M12SX.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://COMM-SMD_E28-2G4M12SX.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://COMM-SMD_E28-2G4M12SX.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U2
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /home/mejpek/Downloads/LIB_W25Q128JVEIM_TR/W25Q128JVEIM_TR/3D/W25Q128JVEIM_TR.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /home/mejpek/Downloads/LIB_W25Q128JVEIM_TR/W25Q128JVEIM_TR/3D/W25Q128JVEIM_TR.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C33
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R6
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C89
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW3
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: IC1
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://STUSB4500QTR.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://STUSB4500QTR.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://STUSB4500QTR.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://STUSB4500QTR.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://STUSB4500QTR.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R44
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C32
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R9
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: IC3
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /home/mejpek/Downloads/LIB_BMI323/BMI323/3D/BMI323.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /home/mejpek/Downloads/LIB_BMI323/BMI323/3D/BMI323.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R16
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J19
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://AMASS_XT60-F_1x02_P7.2mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://AMASS_XT60-F_1x02_P7.2mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://AMASS_XT60-F_1x02_P7.2mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://AMASS_XT60-F_1x02_P7.2mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://AMASS_XT60-F_1x02_P7.2mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R42
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C21
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C30
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D2
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://D_SOD-123.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://D_SOD-123.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://D_SOD-123.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://D_SOD-123.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://D_SOD-123.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C36
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C49
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R15
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C60
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U3
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: IC2
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://MP2338GTL-Z.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://MP2338GTL-Z.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://MP2338GTL-Z.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://MP2338GTL-Z.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://MP2338GTL-Z.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R53
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R57
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R58
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C18
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C50
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J2
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://USB_C_Receptacle_Amphenol_12401610E4-2A.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://USB_C_Receptacle_Amphenol_12401610E4-2A.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://USB_C_Receptacle_Amphenol_12401610E4-2A.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://USB_C_Receptacle_Amphenol_12401610E4-2A.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://USB_C_Receptacle_Amphenol_12401610E4-2A.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C69
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R8
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C55
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D1
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://D_SOD-323.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://D_SOD-323.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://D_SOD-323.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://D_SOD-323.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://D_SOD-323.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C51
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R10
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: H3
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R22
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R28
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C39
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C77
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C41
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U9
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://COMM-SMD_L22.2-W19.0-P2.54_TX5823.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://COMM-SMD_L22.2-W19.0-P2.54_TX5823.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://COMM-SMD_L22.2-W19.0-P2.54_TX5823.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://COMM-SMD_L22.2-W19.0-P2.54_TX5823.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://COMM-SMD_L22.2-W19.0-P2.54_TX5823.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R59
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C56
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J8
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: Q2
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R46
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C54
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: Q4
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J12
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R27
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J11
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C61
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C11
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C75
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R26
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R51
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C37
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C68
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C38
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C66
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R40
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C74
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C81
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C57
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C20
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: L2
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R1
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C90
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R33
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R20
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R36
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U8
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL-EP-2.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL-EP-2.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL-EP-2.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL-EP-2.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL-EP-2.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C25
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW1
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R25
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C31
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW2
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://434133025816.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R14
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: Y2
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /home/mejpek/Downloads/LIB_ABM8W-27.0000MHZ-4-D1X-T3/ABM8W-27.0000MHZ-4-D1X-T3/3D/ABM8W-27.0000MHZ-4-D1X-T3.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /home/mejpek/Downloads/LIB_ABM8W-27.0000MHZ-4-D1X-T3/ABM8W-27.0000MHZ-4-D1X-T3/3D/ABM8W-27.0000MHZ-4-D1X-T3.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R21
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U1
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C2
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0402_1005Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0402_1005Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0402_1005Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0402_1005Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0402_1005Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R4
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C44
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R7
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C76
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C34
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C3
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0402_1005Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0402_1005Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0402_1005Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0402_1005Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0402_1005Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D3
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://D_SOD-123.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://D_SOD-123.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://D_SOD-123.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://D_SOD-123.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://D_SOD-123.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: Q1
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://SOT-23.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U6
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://TSSOP-20_4.4x6.5mm_P0.65mm.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://TSSOP-20_4.4x6.5mm_P0.65mm.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://TSSOP-20_4.4x6.5mm_P0.65mm.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://TSSOP-20_4.4x6.5mm_P0.65mm.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://TSSOP-20_4.4x6.5mm_P0.65mm.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D4
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://LED_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://LED_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://LED_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://LED_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://LED_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J3
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R5
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R18
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R43
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U4
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://BQ25792RQMR.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://BQ25792RQMR.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://BQ25792RQMR.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://BQ25792RQMR.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://BQ25792RQMR.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: Q3
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://SQD40031EL_GE3.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://SQD40031EL_GE3.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://SQD40031EL_GE3.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://SQD40031EL_GE3.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://SQD40031EL_GE3.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C19
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: Y1
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://ABM8-272-T3.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://ABM8-272-T3.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://ABM8-272-T3.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://ABM8-272-T3.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://ABM8-272-T3.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C71
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW7
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://SKRTLAE010.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://SKRTLAE010.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://SKRTLAE010.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://SKRTLAE010.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://SKRTLAE010.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C26
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: H2
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R31
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R56
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U11
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD10_3DMODEL_DIR}/Package_LGA.3dshapes/ST_HLGA-10_2x2mm_P0.5mm_LayoutBorder3x2y.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD10_3DMODEL_DIR}/Package_LGA.3dshapes/ST_HLGA-10_2x2mm_P0.5mm_LayoutBorder3x2y.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J4
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://AMASS_XT60-F_1x02_P7.2mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://AMASS_XT60-F_1x02_P7.2mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://AMASS_XT60-F_1x02_P7.2mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://AMASS_XT60-F_1x02_P7.2mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://AMASS_XT60-F_1x02_P7.2mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R34
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: D5
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://MMSZ4699T1G.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://MMSZ4699T1G.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://MMSZ4699T1G.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://MMSZ4699T1G.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://MMSZ4699T1G.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C65
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: L1
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://AOTA-B201610S3R3-101-T.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://AOTA-B201610S3R3-101-T.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://AOTA-B201610S3R3-101-T.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://AOTA-B201610S3R3-101-T.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://AOTA-B201610S3R3-101-T.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: L3
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://SC1510_13_-A4.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R41
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C85
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C29
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C12
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C53
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C17
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C86
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C15
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J15
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R39
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW6
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C88
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C28
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C4
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C16
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U5
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://SOT-223.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://SOT-223.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://SOT-223.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://SOT-223.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://SOT-223.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C6
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C63
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C84
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C24
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R19
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C42
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C27
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C82
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R38
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C7
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R30
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C5
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J5
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C8
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J14
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C62
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R47
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C83
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C52
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R12
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C70
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R29
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R48
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J18
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C10
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C72
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C13
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C23
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C79
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C14
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R37
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C78
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /home/mejpek/Downloads/LIB_UCW1C471MNL1GS/UCW1C471MNL1GS/3D/UCW1C471MNL1GS.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /home/mejpek/Downloads/LIB_UCW1C471MNL1GS/UCW1C471MNL1GS/3D/UCW1C471MNL1GS.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C45
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /home/mejpek/Downloads/LIB_UCW1C471MNL1GS/UCW1C471MNL1GS/3D/UCW1C471MNL1GS.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /home/mejpek/Downloads/LIB_UCW1C471MNL1GS/UCW1C471MNL1GS/3D/UCW1C471MNL1GS.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C73
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C43
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C9
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R11
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R17
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C22
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C64
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J17
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J20
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /home/mejpek/Downloads/LIB_MSD-1-A/MSD-1-A/3D/MSD-1-A.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /home/mejpek/Downloads/LIB_MSD-1-A/MSD-1-A/3D/MSD-1-A.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C80
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW4
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J10
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J6
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R49
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD10_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R23
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://R_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: SW5
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://CJS-1200TB1.stp
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C87
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://C_0805_2012Metric.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J9
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J16
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J13
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 101:Ambiguous path for the model: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 125:Can not find model defined with: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 146:Did not copy: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: kicad-embed://JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step
+04-25 15:20:41 com_github_MitjaNemec_Archive3DModels.archive_3d_models 164:Did not succeed to copy 3D models!
+('C47', 'kicad-embed:/C_0805_2012Metric.step')
+('C35', 'kicad-embed:/C_0805_2012Metric.step')
+('C40', 'kicad-embed:/C_0805_2012Metric.step')
+('C67', 'kicad-embed:/C_0805_2012Metric.step')
+('C1', 'kicad-embed:/C_0805_2012Metric.step')
+('R50', 'kicad-embed:/R_0805_2012Metric.step')
+('R13', 'kicad-embed:/R_0805_2012Metric.step')
+('R52', 'kicad-embed:/R_0805_2012Metric.step')
+('R54', 'kicad-embed:/R_0805_2012Metric.step')
+('R24', 'kicad-embed:/R_0805_2012Metric.step')
+('C46', 'kicad-embed:/C_0805_2012Metric.step')
+('C48', 'kicad-embed:/C_0805_2012Metric.step')
+('R45', 'kicad-embed:/R_0805_2012Metric.step')
+('R3', 'kicad-embed:/R_0805_2012Metric.step')
+('J7', 'kicad-embed:/SMA_Amphenol_132134-11_Vertical.step')
+('J1', 'kicad-embed:/JST_SH_BM03B-SRSS-TB_1x03-1MP_P1.00mm_Vertical.step')
+('R32', 'kicad-embed:/R_0805_2012Metric.step')
+('C58', 'kicad-embed:/C_0805_2012Metric.step')
+('R2', 'kicad-embed:/R_0805_2012Metric.step')
+('U7', 'kicad-embed:/COMM-SMD_E28-2G4M12SX.step')
+('C33', 'kicad-embed:/C_0805_2012Metric.step')
+('R6', 'kicad-embed:/R_0805_2012Metric.step')
+('SW3', 'kicad-embed:/434133025816.stp')
+('IC1', 'kicad-embed:/STUSB4500QTR.stp')
+('R44', 'kicad-embed:/R_0805_2012Metric.step')
+('C32', 'kicad-embed:/C_0805_2012Metric.step')
+('R9', 'kicad-embed:/R_0805_2012Metric.step')
+('R16', 'kicad-embed:/R_0805_2012Metric.step')
+('J19', 'kicad-embed:/AMASS_XT60-F_1x02_P7.2mm_Vertical.step')
+('R42', 'kicad-embed:/R_0805_2012Metric.step')
+('C21', 'kicad-embed:/C_0805_2012Metric.step')
+('C30', 'kicad-embed:/C_0805_2012Metric.step')
+('D2', 'kicad-embed:/D_SOD-123.step')
+('C36', 'kicad-embed:/C_0805_2012Metric.step')
+('C49', 'kicad-embed:/C_0805_2012Metric.step')
+('R15', 'kicad-embed:/R_0805_2012Metric.step')
+('C60', 'kicad-embed:/C_0805_2012Metric.step')
+('U3', 'kicad-embed:/SC1510_13_-A4.stp')
+('IC2', 'kicad-embed:/MP2338GTL-Z.stp')
+('R53', 'kicad-embed:/R_0805_2012Metric.step')
+('R57', 'kicad-embed:/R_0805_2012Metric.step')
+('R58', 'kicad-embed:/R_0805_2012Metric.step')
+('C18', 'kicad-embed:/C_0805_2012Metric.step')
+('C50', 'kicad-embed:/C_0805_2012Metric.step')
+('J2', 'kicad-embed:/USB_C_Receptacle_Amphenol_12401610E4-2A.step')
+('R8', 'kicad-embed:/R_0805_2012Metric.step')
+('C55', 'kicad-embed:/C_0805_2012Metric.step')
+('D1', 'kicad-embed:/D_SOD-323.step')
+('C51', 'kicad-embed:/C_0805_2012Metric.step')
+('R10', 'kicad-embed:/R_0805_2012Metric.step')
+('R22', 'kicad-embed:/R_0805_2012Metric.step')
+('R28', 'kicad-embed:/R_0805_2012Metric.step')
+('C39', 'kicad-embed:/C_0805_2012Metric.step')
+('C77', 'kicad-embed:/C_0805_2012Metric.step')
+('C41', 'kicad-embed:/C_0805_2012Metric.step')
+('U9', 'kicad-embed:/COMM-SMD_L22.2-W19.0-P2.54_TX5823.step')
+('R59', 'kicad-embed:/R_0805_2012Metric.step')
+('C56', 'kicad-embed:/C_0805_2012Metric.step')
+('J8', 'kicad-embed:/JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step')
+('Q2', 'kicad-embed:/SOT-23.step')
+('R46', 'kicad-embed:/R_0805_2012Metric.step')
+('C54', 'kicad-embed:/C_0805_2012Metric.step')
+('Q4', 'kicad-embed:/SOT-23.step')
+('J12', 'kicad-embed:/JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step')
+('R27', 'kicad-embed:/R_0805_2012Metric.step')
+('J11', 'kicad-embed:/JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step')
+('C61', 'kicad-embed:/C_0805_2012Metric.step')
+('C11', 'kicad-embed:/C_0805_2012Metric.step')
+('C75', 'kicad-embed:/C_0805_2012Metric.step')
+('R26', 'kicad-embed:/R_0805_2012Metric.step')
+('R51', 'kicad-embed:/R_0805_2012Metric.step')
+('C37', 'kicad-embed:/C_0805_2012Metric.step')
+('C38', 'kicad-embed:/C_0805_2012Metric.step')
+('C66', 'kicad-embed:/C_0805_2012Metric.step')
+('R40', 'kicad-embed:/R_0805_2012Metric.step')
+('C74', 'kicad-embed:/C_0805_2012Metric.step')
+('C81', 'kicad-embed:/C_0805_2012Metric.step')
+('C57', 'kicad-embed:/C_0805_2012Metric.step')
+('C20', 'kicad-embed:/C_0805_2012Metric.step')
+('L2', 'kicad-embed:/SC1510_13_-A4.stp')
+('R1', 'kicad-embed:/R_0805_2012Metric.step')
+('R33', 'kicad-embed:/R_0805_2012Metric.step')
+('R20', 'kicad-embed:/R_0805_2012Metric.step')
+('R36', 'kicad-embed:/R_0805_2012Metric.step')
+('U8', 'kicad-embed:/TSSOP-28_L9.7-W4.4-P0.65-LS6.4-BL-EP-2.step')
+('C25', 'kicad-embed:/C_0805_2012Metric.step')
+('SW1', 'kicad-embed:/434133025816.stp')
+('R25', 'kicad-embed:/R_0805_2012Metric.step')
+('C31', 'kicad-embed:/C_0805_2012Metric.step')
+('SW2', 'kicad-embed:/434133025816.stp')
+('R14', 'kicad-embed:/R_0805_2012Metric.step')
+('R21', 'kicad-embed:/R_0805_2012Metric.step')
+('U1', 'kicad-embed:/SC1510_13_-A4.stp')
+('C2', 'kicad-embed:/C_0402_1005Metric.step')
+('R4', 'kicad-embed:/R_0805_2012Metric.step')
+('C44', 'kicad-embed:/C_0805_2012Metric.step')
+('R7', 'kicad-embed:/R_0805_2012Metric.step')
+('C76', 'kicad-embed:/C_0805_2012Metric.step')
+('C34', 'kicad-embed:/C_0805_2012Metric.step')
+('C3', 'kicad-embed:/C_0402_1005Metric.step')
+('D3', 'kicad-embed:/D_SOD-123.step')
+('Q1', 'kicad-embed:/SOT-23.step')
+('U6', 'kicad-embed:/TSSOP-20_4.4x6.5mm_P0.65mm.step')
+('D4', 'kicad-embed:/LED_0805_2012Metric.step')
+('J3', 'kicad-embed:/JST_PH_B2B-PH-K_1x02_P2.00mm_Vertical.step')
+('R5', 'kicad-embed:/R_0805_2012Metric.step')
+('R18', 'kicad-embed:/R_0805_2012Metric.step')
+('R43', 'kicad-embed:/R_0805_2012Metric.step')
+('U4', 'kicad-embed:/BQ25792RQMR.step')
+('Q3', 'kicad-embed:/SQD40031EL_GE3.stp')
+('C19', 'kicad-embed:/C_0805_2012Metric.step')
+('Y1', 'kicad-embed:/ABM8-272-T3.stp')
+('C71', 'kicad-embed:/C_0805_2012Metric.step')
+('SW7', 'kicad-embed:/SKRTLAE010.stp')
+('C26', 'kicad-embed:/C_0805_2012Metric.step')
+('R31', 'kicad-embed:/R_0805_2012Metric.step')
+('R56', 'kicad-embed:/R_0805_2012Metric.step')
+('J4', 'kicad-embed:/AMASS_XT60-F_1x02_P7.2mm_Vertical.step')
+('R34', 'kicad-embed:/R_0805_2012Metric.step')
+('D5', 'kicad-embed:/MMSZ4699T1G.stp')
+('C65', 'kicad-embed:/C_0805_2012Metric.step')
+('L1', 'kicad-embed:/AOTA-B201610S3R3-101-T.stp')
+('L3', 'kicad-embed:/SC1510_13_-A4.stp')
+('R41', 'kicad-embed:/R_0805_2012Metric.step')
+('C85', 'kicad-embed:/C_0805_2012Metric.step')
+('C29', 'kicad-embed:/C_0805_2012Metric.step')
+('C12', 'kicad-embed:/C_0805_2012Metric.step')
+('C53', 'kicad-embed:/C_0805_2012Metric.step')
+('C17', 'kicad-embed:/C_0805_2012Metric.step')
+('C86', 'kicad-embed:/C_0805_2012Metric.step')
+('C15', 'kicad-embed:/C_0805_2012Metric.step')
+('J15', 'kicad-embed:/JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step')
+('R39', 'kicad-embed:/R_0805_2012Metric.step')
+('SW6', 'kicad-embed:/CJS-1200TB1.stp')
+('C88', 'kicad-embed:/C_0805_2012Metric.step')
+('C28', 'kicad-embed:/C_0805_2012Metric.step')
+('C4', 'kicad-embed:/C_0805_2012Metric.step')
+('C16', 'kicad-embed:/C_0805_2012Metric.step')
+('U5', 'kicad-embed:/SOT-223.step')
+('C6', 'kicad-embed:/C_0805_2012Metric.step')
+('C63', 'kicad-embed:/C_0805_2012Metric.step')
+('C84', 'kicad-embed:/C_0805_2012Metric.step')
+('C24', 'kicad-embed:/C_0805_2012Metric.step')
+('R19', 'kicad-embed:/R_0805_2012Metric.step')
+('C42', 'kicad-embed:/C_0805_2012Metric.step')
+('C27', 'kicad-embed:/C_0805_2012Metric.step')
+('C82', 'kicad-embed:/C_0805_2012Metric.step')
+('R38', 'kicad-embed:/R_0805_2012Metric.step')
+('C7', 'kicad-embed:/C_0805_2012Metric.step')
+('R30', 'kicad-embed:/R_0805_2012Metric.step')
+('C5', 'kicad-embed:/C_0805_2012Metric.step')
+('J5', 'kicad-embed:/JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step')
+('C8', 'kicad-embed:/C_0805_2012Metric.step')
+('J14', 'kicad-embed:/JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step')
+('C62', 'kicad-embed:/C_0805_2012Metric.step')
+('C83', 'kicad-embed:/C_0805_2012Metric.step')
+('C52', 'kicad-embed:/C_0805_2012Metric.step')
+('R12', 'kicad-embed:/R_0805_2012Metric.step')
+('C70', 'kicad-embed:/C_0805_2012Metric.step')
+('R29', 'kicad-embed:/R_0805_2012Metric.step')
+('J18', 'kicad-embed:/JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.step')
+('C10', 'kicad-embed:/C_0805_2012Metric.step')
+('C72', 'kicad-embed:/C_0805_2012Metric.step')
+('C13', 'kicad-embed:/C_0805_2012Metric.step')
+('C23', 'kicad-embed:/C_0805_2012Metric.step')
+('C14', 'kicad-embed:/C_0805_2012Metric.step')
+('R37', 'kicad-embed:/R_0805_2012Metric.step')
+('C73', 'kicad-embed:/C_0805_2012Metric.step')
+('C43', 'kicad-embed:/C_0805_2012Metric.step')
+('C9', 'kicad-embed:/C_0805_2012Metric.step')
+('R11', 'kicad-embed:/R_0805_2012Metric.step')
+('R17', 'kicad-embed:/R_0805_2012Metric.step')
+('C22', 'kicad-embed:/C_0805_2012Metric.step')
+('C64', 'kicad-embed:/C_0805_2012Metric.step')
+('J17', 'kicad-embed:/JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step')
+('SW4', 'kicad-embed:/CJS-1200TB1.stp')
+('J10', 'kicad-embed:/JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical.step')
+('J6', 'kicad-embed:/JST_PH_B5B-PH-K_1x05_P2.00mm_Vertical.step')
+('R23', 'kicad-embed:/R_0805_2012Metric.step')
+('SW5', 'kicad-embed:/CJS-1200TB1.stp')
+('C87', 'kicad-embed:/C_0805_2012Metric.step')
+('J9', 'kicad-embed:/JST_PH_B8B-PH-K_1x08_P2.00mm_Vertical.step')
+('J16', 'kicad-embed:/JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step')
+('J13', 'kicad-embed:/JST_PH_B6B-PH-K_1x06_P2.00mm_Vertical.step')

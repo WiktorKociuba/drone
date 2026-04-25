@@ -5927,7 +5927,7 @@
 			(uuid "576fa8ae-2c8c-4696-8c37-11f800927e7f")
 		)
 		(embedded_fonts no)
-		(model "/home/mejpek/Downloads/LIB_W25Q128JVEIM_TR/W25Q128JVEIM_TR/3D/W25Q128JVEIM_TR.stp"
+		(model "${KIPRJMOD}/packages3D/W25Q128JVEIM_TR.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -8386,7 +8386,7 @@
 			(uuid "bef837a8-cf98-4a60-bfbb-ea942649e5a9")
 		)
 		(embedded_fonts no)
-		(model "/home/mejpek/Downloads/LIB_BMI323/BMI323/3D/BMI323.stp"
+		(model "${KIPRJMOD}/packages3D/BMI323.stp"
 			(offset
 				(xyz 0 0 0.009999999626)
 			)
@@ -26860,7 +26860,7 @@
 			(uuid "397e5225-5f2b-4a56-abb3-b20f3edc87e5")
 		)
 		(embedded_fonts no)
-		(model "/home/mejpek/Downloads/LIB_ABM8W-27.0000MHZ-4-D1X-T3/ABM8W-27.0000MHZ-4-D1X-T3/3D/ABM8W-27.0000MHZ-4-D1X-T3.stp"
+		(model "${KIPRJMOD}/packages3D/ABM8W-27.0000MHZ-4-D1X-T3.stp"
 			(offset
 				(xyz 0 0.3099999977 0)
 			)
@@ -36726,7 +36726,7 @@
 			(uuid "9d2cbc15-4818-49e2-a534-1cf499e163df")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Package_LGA.3dshapes/ST_HLGA-10_2x2mm_P0.5mm_LayoutBorder3x2y.step"
+		(model "${KIPRJMOD}/packages3D/ST_HLGA-10_2x2mm_P0.5mm_LayoutBorder3x2y.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -51108,7 +51108,7 @@
 			(uuid "8027520e-ba7f-4611-9240-0477c0f5b27f")
 		)
 		(embedded_fonts no)
-		(model "/home/mejpek/Downloads/LIB_UCW1C471MNL1GS/UCW1C471MNL1GS/3D/UCW1C471MNL1GS.stp"
+		(model "${KIPRJMOD}/packages3D/UCW1C471MNL1GS.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -51378,7 +51378,7 @@
 			(uuid "70e598c2-60cb-4d10-a83e-c9a25eda6202")
 		)
 		(embedded_fonts no)
-		(model "/home/mejpek/Downloads/LIB_UCW1C471MNL1GS/UCW1C471MNL1GS/3D/UCW1C471MNL1GS.stp"
+		(model "${KIPRJMOD}/packages3D/UCW1C471MNL1GS.stp"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -54200,7 +54200,7 @@
 			(uuid "818c3e0b-2f18-4ecc-b8b9-08b599194544")
 		)
 		(embedded_fonts no)
-		(model "/home/mejpek/Downloads/LIB_MSD-1-A/MSD-1-A/3D/MSD-1-A.stp"
+		(model "${KIPRJMOD}/packages3D/MSD-1-A.stp"
 			(offset
 				(xyz -7.5 -8 0)
 			)
