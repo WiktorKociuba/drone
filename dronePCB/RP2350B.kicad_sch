@@ -9657,7 +9657,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Vishay/CRCW080527R0FKEA?qs=sGAEpiMZZMtlubZbdhIBINvvmcV35a3LvvEq8LnzTpY%3D"
 			(at 161.29 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -9680,6 +9680,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 161.29 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW080527R0FKEA "
+			(at 161.29 46.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 161.29 46.99 90)
 			(hide yes)
 			(show_name no)
@@ -10486,7 +10508,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1002ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1roAPPqoU3Rjg%3D"
 			(at 222.25 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -10509,6 +10531,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 222.25 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1002ELF "
+			(at 222.25 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.041"
 			(at 222.25 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -10952,7 +10996,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Susumu/RG2012P-472-B-T5?qs=sGAEpiMZZMtlubZbdhIBIPbXU5%252BlCJyDAe1hYmbSrA8%3D"
 			(at 29.21 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -10975,6 +11019,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 29.21 185.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " RG2012P-472-B-T5 "
+			(at 29.21 185.42 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 29.21 185.42 90)
 			(hide yes)
 			(show_name no)
@@ -11200,7 +11266,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/KOA-Speer/SG73S2ARTTD3301F?qs=sGAEpiMZZMukHu%252BjC5l7YVy0ZbeKlCuTaA9JZ%2FAFI6E%3D"
 			(at 265.43 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -11223,6 +11289,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 265.43 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SG73S2ARTTD3301F "
+			(at 265.43 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.222"
 			(at 265.43 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -12192,7 +12280,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/KOA-Speer/SG73S2ARTTD3301F?qs=sGAEpiMZZMukHu%252BjC5l7YVy0ZbeKlCuTaA9JZ%2FAFI6E%3D"
 			(at 248.92 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -12215,6 +12303,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 248.92 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SG73S2ARTTD3301F "
+			(at 248.92 69.85 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.222"
 			(at 248.92 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -12801,7 +12911,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/KOA-Speer/SG73S2ARTTD3301F?qs=sGAEpiMZZMukHu%252BjC5l7YVy0ZbeKlCuTaA9JZ%2FAFI6E%3D"
 			(at 271.78 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -12824,6 +12934,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 271.78 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "SG73S2ARTTD3301F "
+			(at 271.78 74.93 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.222"
 			(at 271.78 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -13746,7 +13878,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Susumu/RG2012P-472-B-T5?qs=sGAEpiMZZMtlubZbdhIBIPbXU5%252BlCJyDAe1hYmbSrA8%3D"
 			(at 29.21 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -13769,6 +13901,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 29.21 189.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " RG2012P-472-B-T5 "
+			(at 29.21 189.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 29.21 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -14102,7 +14256,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Vishay/CRCW080527R0FKEA?qs=sGAEpiMZZMtlubZbdhIBINvvmcV35a3LvvEq8LnzTpY%3D"
 			(at 161.29 49.53 90)
 			(hide yes)
 			(show_name no)
@@ -14125,6 +14279,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 161.29 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW080527R0FKEA "
+			(at 161.29 49.53 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 161.29 49.53 90)
 			(hide yes)
 			(show_name no)
@@ -14214,7 +14390,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CR0805AFX-1003EAS?qs=sGAEpiMZZMukHu%252BjC5l7YVdc8lyLKKyF%252BcMs1GE9%252BHc%3D"
 			(at 240.03 119.38 90)
 			(hide yes)
 			(show_name no)
@@ -14237,6 +14413,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 240.03 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CR0805AFX-1003EAS "
+			(at 240.03 119.38 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 240.03 119.38 90)
 			(hide yes)
 			(show_name no)
@@ -14674,7 +14872,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1001ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1r1nZX5C3U%252BHk%3D"
 			(at 246.38 60.96 90)
 			(hide yes)
 			(show_name no)
@@ -14697,6 +14895,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 246.38 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1001ELF "
+			(at 246.38 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 246.38 60.96 90)
 			(hide yes)
 			(show_name no)
@@ -15211,7 +15431,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1001ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1r1nZX5C3U%252BHk%3D"
 			(at 60.96 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -15234,6 +15454,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 60.96 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1001ELF "
+			(at 60.96 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 60.96 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -16430,7 +16672,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Vishay/CRCW080533R0JNEA?qs=sGAEpiMZZMukHu%252BjC5l7Yf%252BG%2FFb7l1RCGp%252B%2FkdYYSts%3D"
 			(at 46.99 38.1 90)
 			(hide yes)
 			(show_name no)
@@ -16453,6 +16695,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 46.99 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CRCW080533R0JNEA "
+			(at 46.99 38.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 46.99 38.1 90)
 			(hide yes)
 			(show_name no)

@@ -12988,7 +12988,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CR0805AFX-1003EAS?qs=sGAEpiMZZMukHu%252BjC5l7YVdc8lyLKKyF%252BcMs1GE9%252BHc%3D"
 			(at 160.02 184.15 90)
 			(hide yes)
 			(show_name no)
@@ -13011,6 +13011,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 160.02 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CR0805AFX-1003EAS "
+			(at 160.02 184.15 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 160.02 184.15 90)
 			(hide yes)
 			(show_name no)
@@ -13481,6 +13503,39 @@
 				)
 			)
 		)
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1001ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1r1nZX5C3U%252BHk%3D"
+			(at 139.7 163.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1001ELF "
+			(at 139.7 163.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
+			(at 139.7 163.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "9baf38f3-66bd-4071-8e05-d89b6d964d38")
 		)
@@ -13851,7 +13906,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1002ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1roAPPqoU3Rjg%3D"
 			(at 92.71 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -13874,6 +13929,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 92.71 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1002ELF "
+			(at 92.71 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.041"
 			(at 92.71 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -15780,7 +15857,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1002ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1roAPPqoU3Rjg%3D"
 			(at 168.91 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -15803,6 +15880,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 168.91 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1002ELF "
+			(at 168.91 83.82 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.041"
 			(at 168.91 83.82 90)
 			(hide yes)
 			(show_name no)
@@ -15892,7 +15991,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "n/a"
 			(at 135.89 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -15915,6 +16014,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 135.89 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "n/a"
+			(at 135.89 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0"
 			(at 135.89 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -16220,7 +16341,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/SEI-Stackpole/CSSH0805FT1L00?qs=sGAEpiMZZMtlubZbdhIBIFtUjlT065ui0rNYbmp9nQ4%3D"
 			(at 242.57 22.86 90)
 			(hide yes)
 			(show_name no)
@@ -16243,6 +16364,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 242.57 22.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "CSSH0805FT1L00 "
+			(at 242.57 22.86 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.60"
 			(at 242.57 22.86 90)
 			(hide yes)
 			(show_name no)
@@ -16332,7 +16475,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1001ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1r1nZX5C3U%252BHk%3D"
 			(at 231.14 40.64 90)
 			(hide yes)
 			(show_name no)
@@ -16355,6 +16498,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 231.14 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1001ELF "
+			(at 231.14 40.64 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 231.14 40.64 90)
 			(hide yes)
 			(show_name no)
@@ -16814,7 +16979,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1001ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1r1nZX5C3U%252BHk%3D"
 			(at 231.14 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -16837,6 +17002,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 231.14 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1001ELF "
+			(at 231.14 81.28 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 231.14 81.28 90)
 			(hide yes)
 			(show_name no)
@@ -17159,7 +17346,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/YAGEO/RT0805FRE07191KL?qs=4CyHz7GXqSjSiU5ynuuczA%3D%3D"
 			(at 73.66 181.61 90)
 			(hide yes)
 			(show_name no)
@@ -17182,6 +17369,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 73.66 181.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RT0805FRE07191KL "
+			(at 73.66 181.61 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 73.66 181.61 90)
 			(hide yes)
 			(show_name no)
@@ -17298,6 +17507,39 @@
 				)
 			)
 		)
+		(property "Link" "https://www.mouser.pl/ProductDetail/Diotec-Semiconductor/2N7002A?qs=OlC7AqGiEDkkJvTsYoVAvg%3D%3D"
+			(at 144.78 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "2N7002A "
+			(at 144.78 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.14"
+			(at 144.78 182.88 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d059492e-2eb9-4ae9-bda6-9475a9bdab79")
 		)
@@ -17380,7 +17622,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1002ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1roAPPqoU3Rjg%3D"
 			(at 101.6 173.99 90)
 			(hide yes)
 			(show_name no)
@@ -17403,6 +17645,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 101.6 173.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1002ELF "
+			(at 101.6 173.99 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.041"
 			(at 101.6 173.99 90)
 			(hide yes)
 			(show_name no)
@@ -17630,7 +17894,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CR0805-FX-1742ELF?qs=sGAEpiMZZMtlubZbdhIBIKn39ibjI6Wb8uNedXAqOvM%3D"
 			(at 107.95 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -17653,6 +17917,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 107.95 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CR0805-FX-1742ELF "
+			(at 107.95 39.37 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 107.95 39.37 90)
 			(hide yes)
 			(show_name no)
@@ -18648,7 +18934,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1001ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1r1nZX5C3U%252BHk%3D"
 			(at 231.14 60.96 90)
 			(hide yes)
 			(show_name no)
@@ -18671,6 +18957,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 231.14 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1001ELF "
+			(at 231.14 60.96 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 231.14 60.96 90)
 			(hide yes)
 			(show_name no)
@@ -19108,7 +19416,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1002ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1roAPPqoU3Rjg%3D"
 			(at 53.34 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -19131,6 +19439,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 53.34 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1002ELF "
+			(at 53.34 104.14 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.041"
 			(at 53.34 104.14 90)
 			(hide yes)
 			(show_name no)
@@ -19220,7 +19550,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1002ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1roAPPqoU3Rjg%3D"
 			(at 72.39 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -19243,6 +19573,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 72.39 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1002ELF "
+			(at 72.39 35.56 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.041"
 			(at 72.39 35.56 90)
 			(hide yes)
 			(show_name no)
@@ -20083,7 +20435,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1002ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1roAPPqoU3Rjg%3D"
 			(at 260.35 116.84 90)
 			(hide yes)
 			(show_name no)
@@ -20106,6 +20458,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 260.35 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1002ELF "
+			(at 260.35 116.84 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.041"
 			(at 260.35 116.84 90)
 			(hide yes)
 			(show_name no)
@@ -20565,7 +20939,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1001ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1r1nZX5C3U%252BHk%3D"
 			(at 231.14 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -20588,6 +20962,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 231.14 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1001ELF "
+			(at 231.14 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 231.14 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -20813,7 +21209,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1002ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1roAPPqoU3Rjg%3D"
 			(at 74.93 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -20836,6 +21232,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 74.93 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1002ELF "
+			(at 74.93 71.12 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.041"
 			(at 74.93 71.12 90)
 			(hide yes)
 			(show_name no)
@@ -21409,7 +21827,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/YAGEO/RT0805DRE0730K1L?qs=sGAEpiMZZMtlubZbdhIBIK36V95%2FrXmtjwRDDXs00Pw%3D"
 			(at 113.03 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -21432,6 +21850,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 113.03 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RT0805DRE0730K1L "
+			(at 113.03 105.41 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 113.03 105.41 90)
 			(hide yes)
 			(show_name no)
@@ -21521,7 +21961,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1002ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1roAPPqoU3Rjg%3D"
 			(at 72.39 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -21544,6 +21984,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 72.39 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1002ELF "
+			(at 72.39 44.45 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.041"
 			(at 72.39 44.45 90)
 			(hide yes)
 			(show_name no)
@@ -21635,7 +22097,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/SEI-Stackpole/RMCA0805FT100R-HP?qs=sGAEpiMZZMtlubZbdhIBIHi9NCiDMYV4uHcq%2F5evVZw%3D"
 			(at 237.49 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -21658,6 +22120,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 237.49 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " RMCA0805FT100R-HP "
+			(at 237.49 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 237.49 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -21979,7 +22463,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/YAGEO/RT0805FRE0790K9L?qs=UvCmBq8CNhV1Y9veV2id6w%3D%3D"
 			(at 109.22 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -22002,6 +22486,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 109.22 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RT0805FRE0790K9L "
+			(at 109.22 165.1 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 109.22 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -22519,7 +23025,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/YAGEO/RT0805FRD0749K9L?qs=TyBUSTk9pD99vpp4MwWwjA%3D%3D"
 			(at 73.66 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -22542,6 +23048,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 73.66 189.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " RT0805FRD0749K9L "
+			(at 73.66 189.23 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 73.66 189.23 90)
 			(hide yes)
 			(show_name no)
@@ -23541,7 +24069,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/SEI-Stackpole/RMCA0805FT100R-HP?qs=sGAEpiMZZMtlubZbdhIBIHi9NCiDMYV4uHcq%2F5evVZw%3D"
 			(at 251.46 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -23564,6 +24092,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 251.46 142.24 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " RMCA0805FT100R-HP "
+			(at 251.46 142.24 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 251.46 142.24 90)
 			(hide yes)
 			(show_name no)
@@ -23945,6 +24495,39 @@
 				)
 			)
 		)
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1001ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1r1nZX5C3U%252BHk%3D"
+			(at 147.32 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1001ELF "
+			(at 147.32 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
+			(at 147.32 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eaeb178e-4c17-4dce-9881-288049b6ca3c")
 		)
@@ -24024,7 +24607,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/SEI-Stackpole/RMCA0805FT100R-HP?qs=sGAEpiMZZMtlubZbdhIBIHi9NCiDMYV4uHcq%2F5evVZw%3D"
 			(at 171.45 41.91 90)
 			(hide yes)
 			(show_name no)
@@ -24047,6 +24630,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 171.45 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " RMCA0805FT100R-HP "
+			(at 171.45 41.91 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 171.45 41.91 90)
 			(hide yes)
 			(show_name no)
@@ -24136,7 +24741,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/YAGEO/RT0805FRE075K23L?qs=sGAEpiMZZMtlubZbdhIBIK36V95%2FrXmt2BbB9Hnb3Bc%3D"
 			(at 106.68 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -24159,6 +24764,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 106.68 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RT0805FRE075K23L "
+			(at 106.68 86.36 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 106.68 86.36 90)
 			(hide yes)
 			(show_name no)
@@ -24325,7 +24952,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1002ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1roAPPqoU3Rjg%3D"
 			(at 171.45 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -24348,6 +24975,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 171.45 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1002ELF "
+			(at 171.45 78.74 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.041"
 			(at 171.45 78.74 90)
 			(hide yes)
 			(show_name no)
@@ -25809,7 +26458,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CR0805AFX-1003EAS?qs=sGAEpiMZZMukHu%252BjC5l7YVdc8lyLKKyF%252BcMs1GE9%252BHc%3D"
 			(at 107.95 36.83 90)
 			(hide yes)
 			(show_name no)
@@ -25832,6 +26481,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 107.95 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CR0805AFX-1003EAS "
+			(at 107.95 36.83 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 107.95 36.83 90)
 			(hide yes)
 			(show_name no)
@@ -25921,7 +26592,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1001ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1r1nZX5C3U%252BHk%3D"
 			(at 231.14 92.71 90)
 			(hide yes)
 			(show_name no)
@@ -25944,6 +26615,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 231.14 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1001ELF "
+			(at 231.14 92.71 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 231.14 92.71 90)
 			(hide yes)
 			(show_name no)
@@ -26307,7 +27000,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/SEI-Stackpole/RMCA0805FT100R-HP?qs=sGAEpiMZZMtlubZbdhIBIHi9NCiDMYV4uHcq%2F5evVZw%3D"
 			(at 248.92 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -26330,6 +27023,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 248.92 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " RMCA0805FT100R-HP "
+			(at 248.92 27.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.10"
 			(at 248.92 27.94 0)
 			(hide yes)
 			(show_name no)
@@ -26712,7 +27427,7 @@
 				)
 			)
 		)
-		(property "Link" ""
+		(property "Link" "https://www.mouser.pl/ProductDetail/YAGEO/RT0805FRE07127KL?qs=4CyHz7GXqShKkv8p7ya%252ByA%3D%3D"
 			(at 119.38 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -26735,6 +27450,28 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 119.38 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" "RT0805FRE07127KL "
+			(at 119.38 25.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.11"
 			(at 119.38 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -27728,6 +28465,39 @@
 			)
 		)
 		(property "KLC_S4.1" ""
+			(at 133.35 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Link" "https://www.mouser.pl/ProductDetail/Bourns/CRM0805-FX-1002ELF?qs=sGAEpiMZZMukHu%252BjC5l7YTW09VQ7bb1roAPPqoU3Rjg%3D"
+			(at 133.35 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer_Part_Number" " CRM0805-FX-1002ELF "
+			(at 133.35 189.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Price per unit" "0.041"
 			(at 133.35 189.23 0)
 			(hide yes)
 			(show_name no)
